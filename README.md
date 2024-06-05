@@ -1,4 +1,6 @@
-Hi everyone! I'm Varad Joshi, a freelance developer. Currently I'm just done with my Third Year of BE in CSE and Data Science from Mumbai University. 
+### Hi everyone! I'm Varad Joshi, a freelance developer. 
+
+Currently I'm just done with my Third Year of BE in CSE and Data Science from Mumbai University. 
 
 My skillset mainly includes Django development, RESTful APIs, CICD, Github Actions, Tensorflow. Currently I'm working for a budding startup as their lone Software Developer, in talks with a few more budding startups to help them with MVPs, Prototypes or Software Development. Apart from development side of things, my skillset includes Project Timelines, Planning, Support and Maintenance, Linux (bash/zsh), git, talent acquisition.
 
@@ -9,10 +11,10 @@ On the AI side of things, I have experience with dataset creation, regression/cl
 I also have keen interest in IOT/Edge computing and have my eyes on the iot-gis hackathon. Apart from that I was once a maintainer for LeafOS (a fork of AOSP) but quickly realised it that AOSP is a huge project and doesn't have much returns, eventually rendering it into an expensive hobby so I have abandoned it for now.
 
 Thats all about me. If you wish to have talks about anything, you can ping me on 
-LinkedIn: https://www.linkedin.com/in/varad13
-Telegram: https://t.me/varadstuff
+#### LinkedIn: https://www.linkedin.com/in/varad13
+#### Telegram: https://t.me/varadstuff
 
 You can also find all my projects on my github profile (ps. check organizations because I generally organise my projects under different orgs)
-Github: https://www.github.com/Varad-13
+#### Github: https://www.github.com/Varad-13
 
 Apart from this, if you just want to connect on general life then you can follow my instagram @var.ad101. I also attend tech events in Mumbai so you just might find me at one :D. Talk to me about cars, tech and startups!
