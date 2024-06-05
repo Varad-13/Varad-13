@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Varad Joshi</h1>
-<h3 align="center">Third Year Data Science Engineering Student from India</h3>
+Hi everyone! I'm Varad Joshi, a freelance developer. Currently I'm just done with my Third Year of BE in CSE and Data Science from Mumbai University. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+My skillset mainly includes Django development, RESTful APIs, CICD, Github Actions, Tensorflow. Currently I'm working for a budding startup as their lone Software Developer, in talks with a few more budding startups to help them with MVPs, Prototypes or Software Development. Apart from development side of things, my skillset includes Project Timelines, Planning, Support and Maintenance, Linux (bash/zsh), git, talent acquisition.
+
+Personally, I prefer not to work with obsolete or aging technologies unless absolutely necessary. I also don't get the hyper around Ts/Js stacks for backend/apis. 
+
+On the AI side of things, I have experience with dataset creation, regression/classification models in tensorflow, and will be dipping my toes into image processing, nlp and chatbots over the course of next 6 months when I am planning to develop an AI integrated notes app (no I'm not going to build a GPT wrapper). I have also built a recommendation engine in the past which I integrated with a job hunt platform and ecommerce web application, both of which are currently in talks to move ahead as separate startups of their own with different cofounders.
+
+I also have keen interest in IOT/Edge computing and have my eyes on the iot-gis hackathon. Apart from that I was once a maintainer for LeafOS (a fork of AOSP) but quickly realised it that AOSP is a huge project and doesn't have much returns, eventually rendering it into an expensive hobby so I have abandoned it for now.
+
+Thats all about me. If you wish to have talks about anything, you can ping me on 
+LinkedIn: https://www.linkedin.com/in/varad13
+Telegram: https://t.me/varadstuff
+
+You can also find all my projects on my github profile (ps. check organizations because I generally organise my projects under different orgs)
+Github: https://www.github.com/Varad-13
+
+Apart from this, if you just want to connect on general life then you can follow my instagram @var.ad101. I also attend tech events in Mumbai so you just might find me at one :D. Talk to me about cars, tech and startups!
