@@ -8,7 +8,7 @@ Personally, I prefer not to work with obsolete or aging technologies unless abso
 
 On the AI side of things, I have experience with dataset creation, regression/classification models in tensorflow, and will be dipping my toes into image processing, nlp and chatbots over the course of next 6 months when I am planning to develop an AI integrated notes app (no I'm not going to build a GPT wrapper). I have also built a recommendation engine in the past which I integrated with a job hunt platform and ecommerce web application, both of which are currently in talks to move ahead as separate startups of their own with different cofounders.
 
-I also have keen interest in IOT/Edge computing and have my eyes on the iot-gis hackathon. Apart from that I was once a maintainer for LeafOS (a fork of AOSP) but quickly realised it that AOSP is a huge project and doesn't have much returns, eventually rendering it into an expensive hobby so I have abandoned it for now.
+Apart from that I was once a maintainer for LeafOS (a fork of AOSP) but quickly realised it that AOSP is a huge project and doesn't have much returns, eventually rendering it into an expensive hobby so I have abandoned it for now.
 
 Thats all about me. If you wish to have talks about anything, you can ping me on 
 #### LinkedIn: https://www.linkedin.com/in/varad13
