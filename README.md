@@ -4,7 +4,7 @@ Currently I'm just done with my Third Year of BE in CSE and Data Science from Mu
 
 My skillset mainly includes Django development, RESTful APIs, CICD, Github Actions, Tensorflow. Currently I'm working for a budding startup as their lone Software Developer, in talks with a few more budding startups to help them with MVPs, Prototypes or Software Development. Apart from development side of things, my skillset includes Project Timelines, Planning, Support and Maintenance, Linux (bash/zsh), git, talent acquisition.
 
-Personally, I prefer not to work with obsolete or aging technologies unless absolutely necessary. I also don't get the hyper around Ts/Js stacks for backend/apis. 
+Personally, I prefer not to work with obsolete or aging technologies unless absolutely necessary. I also don't get the hype around Ts/Js stacks for backend/apis. 
 
 On the AI side of things, I have experience with dataset creation, regression/classification models in tensorflow, and will be dipping my toes into image processing, nlp and chatbots over the course of next 6 months when I am planning to develop an AI integrated notes app (no I'm not going to build a GPT wrapper). I have also built a recommendation engine in the past which I integrated with a job hunt platform and ecommerce web application, both of which are currently in talks to move ahead as separate startups of their own with different cofounders.
 
