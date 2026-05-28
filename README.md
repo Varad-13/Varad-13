@@ -1,20 +1,30 @@
-### Hi everyone! I'm Varad Joshi, a freelance developer. 
+# Hi everyone! I’m Varad Joshi
 
-Currently I'm just done with my Third Year of BE in CSE and Data Science from Mumbai University. 
+Software engineer, backend developer, and AI systems enthusiast based in Mumbai.
 
-My skillset mainly includes Django development, RESTful APIs, CICD, Github Actions, Tensorflow. Currently I'm working for a budding startup as their lone Software Developer, in talks with a few more budding startups to help them with MVPs, Prototypes or Software Development. Apart from development side of things, my skillset includes Project Timelines, Planning, Support and Maintenance, Linux (bash/zsh), git, talent acquisition.
+I’ve been working professionally in the startup space since 2023 and currently have around **3 years of hands-on experience** building and maintaining production systems, internal tooling, AI integrations, developer infrastructure, and scalable backend services. Alongside my primary work, I also collaborate with startups on MVPs, prototypes, architecture, automation, and rapid product development.
 
-Personally, I prefer not to work with obsolete or aging technologies unless absolutely necessary. I also don't get the hype around Ts/Js stacks for backend/apis. 
+My core work revolves around Python ecosystems, primarily FastAPI and Django, along with PostgreSQL, Docker, CI/CD pipelines, Linux environments, GitHub Actions, automation tooling, and infrastructure-oriented workflows. I enjoy building systems that are practical, maintainable, and performance-focused rather than blindly following trends.
 
-On the AI side of things, I have experience with dataset creation, regression/classification models in tensorflow, and will be dipping my toes into image processing, nlp and chatbots over the course of next 6 months when I am planning to develop an AI integrated notes app (no I'm not going to build a GPT wrapper). I have also built a recommendation engine in the past which I integrated with a job hunt platform and ecommerce web application, both of which are currently in talks to move ahead as separate startups of their own with different cofounders.
+Over time, I’ve worked on recommendation systems, AI-assisted workflows, developer tools, tracking systems, automation platforms, and production-grade APIs. Recently, a lot of my focus has shifted towards applied AI engineering including local LLM workflows, inference pipelines, image processing, NLP, AI-integrated productivity systems, and tooling around autonomous and agentic workflows.
 
-Apart from that I was once a maintainer for LeafOS (a fork of AOSP) but quickly realised it that AOSP is a huge project and doesn't have much returns, eventually rendering it into an expensive hobby so I have abandoned it for now.
+Outside of my professional work, I also run and build projects under my **Dev Genio** initiative where I experiment with SaaS systems, developer infrastructure, AI tooling, and rapid product execution pipelines.
 
-Thats all about me. If you wish to have talks about anything, you can ping me on 
-#### LinkedIn: https://www.linkedin.com/in/varad13
-#### Telegram: https://t.me/varadstuff
+I was also previously involved in the Android open-source ecosystem as a maintainer for **LeafOS**, an AOSP-based ROM project. That experience gave me exposure to large-scale collaborative engineering and low-level platform development before I eventually shifted my focus fully towards backend systems and AI.
 
-You can also find all my projects on my github profile (ps. check organizations because I generally organise my projects under different orgs)
-#### Github: https://www.github.com/Varad-13
+I’m currently pursuing my B.E. in Computer Science and Data Science under Mumbai University while continuing to work full-time in the startup ecosystem.
 
-Apart from this, if you just want to connect on general life then you can follow my instagram @var.ad101. I also attend tech events in Mumbai so you just might find me at one :D. Talk to me about cars, tech and startups!
+Apart from tech, I’m heavily interested in startups, automobiles, infrastructure, open-source ecosystems, and emerging technology in general. I also regularly attend tech and open-source events around Mumbai, so there’s a good chance we’ll run into each other at one.
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/varad13
+Telegram: https://t.me/varadstuff
+GitHub: https://github.com/Varad-13
+Dev Genio: https://dev-genio.com
+
+> Most of my projects are organized under separate GitHub organizations, so check those too.
+
+Always open to interesting conversations, collaborations, or building cool things.
