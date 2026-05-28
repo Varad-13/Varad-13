@@ -20,10 +20,10 @@ Apart from tech, I’m heavily interested in startups, automobiles, infrastructu
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/varad13
-Telegram: https://t.me/varadstuff
-GitHub: https://github.com/Varad-13
-Dev Genio: https://dev-genio.com
+LinkedIn: https://www.linkedin.com/in/varad13  
+Telegram: https://t.me/varadstuff  
+GitHub: https://github.com/Varad-13  
+Dev Genio: https://dev-genio.com  
 
 > Most of my projects are organized under separate GitHub organizations, so check those too.
 
